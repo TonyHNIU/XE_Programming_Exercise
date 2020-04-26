@@ -1,0 +1,11 @@
+C:\Users\NiuHui\source\repos\XE_Programming_Exercise\XE_Programming_Exercise\bin\Debug\netcoreapp2.2\XE_Programming_Exercise.deps.json
+C:\Users\NiuHui\source\repos\XE_Programming_Exercise\XE_Programming_Exercise\bin\Debug\netcoreapp2.2\XE_Programming_Exercise.runtimeconfig.json
+C:\Users\NiuHui\source\repos\XE_Programming_Exercise\XE_Programming_Exercise\bin\Debug\netcoreapp2.2\XE_Programming_Exercise.runtimeconfig.dev.json
+C:\Users\NiuHui\source\repos\XE_Programming_Exercise\XE_Programming_Exercise\bin\Debug\netcoreapp2.2\XE_Programming_Exercise.dll
+C:\Users\NiuHui\source\repos\XE_Programming_Exercise\XE_Programming_Exercise\bin\Debug\netcoreapp2.2\XE_Programming_Exercise.pdb
+C:\Users\NiuHui\source\repos\XE_Programming_Exercise\XE_Programming_Exercise\obj\Debug\netcoreapp2.2\XE_Programming_Exercise.csprojAssemblyReference.cache
+C:\Users\NiuHui\source\repos\XE_Programming_Exercise\XE_Programming_Exercise\obj\Debug\netcoreapp2.2\XE_Programming_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\NiuHui\source\repos\XE_Programming_Exercise\XE_Programming_Exercise\obj\Debug\netcoreapp2.2\XE_Programming_Exercise.AssemblyInfoInputs.cache
+C:\Users\NiuHui\source\repos\XE_Programming_Exercise\XE_Programming_Exercise\obj\Debug\netcoreapp2.2\XE_Programming_Exercise.AssemblyInfo.cs
+C:\Users\NiuHui\source\repos\XE_Programming_Exercise\XE_Programming_Exercise\obj\Debug\netcoreapp2.2\XE_Programming_Exercise.dll
+C:\Users\NiuHui\source\repos\XE_Programming_Exercise\XE_Programming_Exercise\obj\Debug\netcoreapp2.2\XE_Programming_Exercise.pdb
